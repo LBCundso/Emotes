@@ -1,0 +1,9 @@
+name: Emotes
+version: '1.0'
+main: de.lbcundso.emotes.Main
+api-version: '1.20'
+commands:
+  emotes:
+    description: Zeige dir alle Emotes an.
+    aliases:
+      - e
